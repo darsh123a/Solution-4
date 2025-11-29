@@ -91,7 +91,7 @@ function App() {
           </div>
           {/* right */}
           <div className="w-full md:w-1/3 h-full flex justify-center items-cente mr-0 md:mr-4">
-            <img src="./assets/illustration-sign-up-desktop.svg" />
+            <img src="./assets/illustration-sign-up-desktop.svg" alt="image" />
           </div>
         </div>
       </div>
