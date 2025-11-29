@@ -17,11 +17,11 @@ function App() {
   return (
     <>
       <div className="w-full h-screen flex justify-center bg-[#2E2F53] items-center">
-        <div className="md:w-[60%] md:h-[75%]  w-full h-auto  flex flex-col-reverse md:flex-row  bg-white rounded-2xl shadow-2xl ">
+        <div className="md:w-[60%] md:h-[90%]  w-full h-auto  flex flex-col-reverse md:flex-row  bg-white rounded-2xl shadow-2xl ">
           {/* left */}
           <div className="w-full md:w-2/3 ">
             <div className=" w-[90%] mx-auto mt-15 h-auto">
-              <h1 className=" md:text-5xl text-7xl lg:text-7xl text-black font-bold font-sans pb-7">
+              <h1 className="  text-7xl  text-black font-bold font-sans pb-7">
                 Stay updated!
               </h1>
               <p className="font-bold text-xl text-gray-500">
