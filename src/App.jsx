@@ -21,7 +21,7 @@ function App() {
           {/* left */}
           <div className="w-full md:w-2/3 ">
             <div className=" w-[90%] mx-auto mt-15 h-auto">
-              <h1 className="  text-7xl  text-black font-bold font-sans pb-7">
+              <h1 className="  text-6xl  text-black font-bold font-sans pb-7">
                 Stay updated!
               </h1>
               <p className="font-bold text-xl text-gray-500">
